@@ -2,7 +2,7 @@
 
 HTTP server in C++
 
-Team: bbrunet (@grim22) and julnolle (@sequoiageant)
+Team: [grim22](https://github.com/Grim22) and [jnolleau](https://github.com/jnolleau)
 
 HTTP compliant (cf RFC 7230 to 7235)
 
