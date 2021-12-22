@@ -2,7 +2,7 @@
 
 HTTP server in C++
 
-Team: [grim22](https://github.com/Grim22) and [jnolleau](https://github.com/jnolleau)
+Team: [grim22](https://github.com/Grim22) and [jnolleau](https://github.com/jnolleau)  
 This repo is a fork of the grim22's one as we worked together on [his repository](https://github.com/Grim22/webserv).
 
 HTTP compliant (cf RFC 7230 to 7235)
